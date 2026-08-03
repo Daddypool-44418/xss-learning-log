@@ -23,8 +23,8 @@ Posts follow the PortSwigger Web cache deception module in order, so you can rea
 
 Junior offensive security professional focused on web application pentesting and Active Directory exploitation. Currently expanding into API security and web caching vulnerabilities.
 
-- LinkedIn: [https://www.linkedin.com/in/dparas780/]
-- Bugcrowd: [https://bugcrowd.com/h/dparas7808]
+- LinkedIn: https://www.linkedin.com/in/dparas780/
+- Bugcrowd: https://bugcrowd.com/h/dparas7808
 - Also see: [API Security Learning Log](https://github.com/Daddypool-44418/api-security-learning-log)
 
 ## Why This Repo Exists
