@@ -21,7 +21,7 @@ Posts follow the PortSwigger Web cache deception module in order, so you can rea
 
 ## About Me
 
-Junior offensive security professional focused on web application pentesting and Active Directory exploitation. Currently expanding into API security and web caching vulnerabilities.
+Junior web pentester, still early in the journey — learning something new every day and writing about it as I go.
 
 - LinkedIn: https://www.linkedin.com/in/dparas780/
 - Bugcrowd: https://bugcrowd.com/h/dparas7808
