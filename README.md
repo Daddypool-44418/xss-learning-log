@@ -1,23 +1,26 @@
-# Web Cache Deception Learning Log
+# XSS Learning Log
 
-A public log of my journey through PortSwigger's [Web cache deception](https://portswigger.net/web-security/web-cache-deception) module on Web Security Academy — written to document what I'm learning and to help other beginners in offensive security follow the same path.
+A public log of my journey through PortSwigger's [Cross-Site Scripting (XSS)](https://portswigger.net/web-security/cross-site-scripting) module on Web Security Academy — written to document what I'm learning and to help other beginners in offensive security follow the same path.
 
-I'm a junior offensive security professional (web app pentesting, Active Directory exploitation) previously documented an [API security learning series](https://github.com/YOUR_USERNAME/api-security-learning-log) — this repo picks up with a new topic. Same format: break down each concept as I learn it, not lab walkthroughs, but the actual thought process behind each vulnerability class.
+Junior web pentester, still early in the journey — learning something new every day and writing about it as I go. This is my second public learning series after [API Security](https://github.com/Daddypool-44418/api-security-learning-log).
 
-**No lab spoilers.** You won't find copy-paste payloads or step-by-step solutions to PortSwigger's labs here — solving them yourself is where the actual learning happens. What you will find is how I think through each concept, what I tried, what failed, and how it maps to real-world caching infrastructure.
+**No lab spoilers.** You won't find copy-paste payloads or step-by-step solutions to PortSwigger's labs here — solving them yourself is where the actual learning happens. What you will find is how I think through each concept, what I tried, what failed, and how it maps to real-world testing.
 
 ## Posts
 
-Posts follow the PortSwigger Web cache deception module in order, so you can read along with the module section-by-section.
+Posts follow the PortSwigger XSS module in order, so you can read along with the module section-by-section.
 
 | # | Topic | Covers | Status |
 |---|-------|--------|--------|
-| 01 | Starting Web Cache Deception | Intro — what WCD is, how it differs from cache poisoning, module overview | 🔜 Coming up |
-| 02 | Web Caches & Constructing an Attack | Cache keys, cache rules, using a cache buster, detecting cached responses | 🔜 Coming up |
-| 03 | Exploiting Static Extension Cache Rules | Path mapping discrepancies, delimiter discrepancies, delimiter decoding discrepancies | 🔜 Coming up |
-| 04 | Exploiting Static Directory Cache Rules | Normalization discrepancies (origin server and cache server) | 🔜 Coming up |
-| 05 | Exploiting File Name Cache Rules | Normalization discrepancies applied to exact file name matches | 🔜 Coming up |
-| 06 | Preventing Web Cache Deception Vulnerabilities | Cache-Control headers, CDN configuration, defensive recap | 🔜 Coming up |
+| 01 | Starting XSS: What It Actually Is | What XSS is, how it works, the three main types (reflected/stored/DOM-based), impact | 🔜 Coming up |
+| 02 | Reflected XSS | Reflected XSS — how it works, impact, contexts, testing | 🔜 Coming up |
+| 03 | Stored XSS | Stored XSS — how it works, impact, contexts, testing | 🔜 Coming up |
+| 04 | DOM-Based XSS | DOM XSS — sources/sinks, testing, exploiting, third-party dependencies (jQuery, AngularJS) | 🔜 Coming up |
+| 05 | XSS Contexts | Injecting between HTML tags, in tag attributes, into JavaScript, client-side template injection | 🔜 Coming up |
+| 06 | Exploiting XSS | Stealing cookies, capturing passwords, performing CSRF | 🔜 Coming up |
+| 07 | Dangling Markup Injection | Capturing data cross-domain when full XSS isn't possible | 🔜 Coming up |
+| 08 | Content Security Policy (CSP) | Mitigating XSS with CSP, bypassing CSP, clickjacking protection | 🔜 Coming up |
+| 09 | Preventing XSS | Input filtering, output encoding, response headers, template engines, CSP as last line of defense | 🔜 Coming up |
 
 ## About Me
 
