@@ -12,7 +12,7 @@ Posts follow the PortSwigger XSS module in order, so you can read along with the
 
 | # | Topic | Covers | Status |
 |---|-------|--------|--------|
-| 01 | Starting XSS: What It Actually Is | What XSS is, how it works, the three main types (reflected/stored/DOM-based), impact | 🔜 Coming up |
+| 01 | [Starting XSS: What It Actually Is](posts/01-starting-xss.md) | What XSS is, how it works, the three main types (reflected/stored/DOM-based), impact | ✅ Published |
 | 02 | Reflected XSS | Reflected XSS — how it works, impact, contexts, testing | 🔜 Coming up |
 | 03 | Stored XSS | Stored XSS — how it works, impact, contexts, testing | 🔜 Coming up |
 | 04 | DOM-Based XSS | DOM XSS — sources/sinks, testing, exploiting, third-party dependencies (jQuery, AngularJS) | 🔜 Coming up |
