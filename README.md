@@ -16,7 +16,7 @@ Posts follow the PortSwigger XSS module in order, so you can read along with the
 | 02 | [Reflected XSS](posts/02-reflected-xss.md) | Reflected XSS — how it works, impact, contexts, testing | ✅ Published |
 | 03 | [Stored XSS](posts/03-stored-xss.md) | Stored XSS — how it works, impact, contexts, testing | ✅ Published |
 | 04 | [DOM-Based XSS](posts/04-dom-based-xss.md) | DOM XSS — sources/sinks, testing, exploiting, third-party dependencies (jQuery, AngularJS) | ✅ Published |
-| 05 | XSS Contexts | Injecting between HTML tags, in tag attributes, into JavaScript, client-side template injection | 🔜 Coming up |
+| 05 | [XSS Contexts](posts/05-xss-contexts.md) | Injecting between HTML tags, in tag attributes, into JavaScript, client-side template injection | ✅ Published |
 | 06 | Exploiting XSS | Stealing cookies, capturing passwords, performing CSRF | 🔜 Coming up |
 | 07 | Dangling Markup Injection | Capturing data cross-domain when full XSS isn't possible | 🔜 Coming up |
 | 08 | Content Security Policy (CSP) | Mitigating XSS with CSP, bypassing CSP, clickjacking protection | 🔜 Coming up |
