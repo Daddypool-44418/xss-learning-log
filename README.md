@@ -20,7 +20,7 @@ Posts follow the PortSwigger XSS module in order, so you can read along with the
 | 06 | [Exploiting XSS](posts/06-exploiting-xss.md) | Stealing cookies, capturing passwords, performing CSRF | ✅ Published |
 | 07 | [Dangling Markup Injection](posts/07-dangling-markup-injection.md) | Capturing data cross-domain when full XSS isn't possible | ✅ Published |
 | 08 | [Content Security Policy (CSP)](posts/08-content-security-policy.md) | Mitigating XSS with CSP, bypassing CSP, clickjacking protection | 🔜 Coming up |
-| 09 | Preventing XSS | Input filtering, output encoding, response headers, template engines, CSP as last line of defense | 🔜 Coming up |
+| 09 | [Preventing XSS](posts/09-preventing-xss.md) | Input filtering, output encoding, response headers, template engines, CSP as last line of defense | 🔜 Coming up |
 
 ## About Me
 
